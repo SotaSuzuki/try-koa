@@ -1,0 +1,12 @@
+{
+  "name": "try-koa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon --experimental-modules app"
+  },
+  "dependencies": {
+    "koa": "^2.5.1"
+  }
+}
